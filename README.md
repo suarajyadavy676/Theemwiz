@@ -1,12 +1,23 @@
-# React + Vite
+# 🚀 Project Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive React project built using **Chakra UI**, providing a clean UI with reusable components and mobile-friendly design.
 
-Currently, two official plugins are available:
+## 📸 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot](./public/screenshot.png)
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Chakra UI](https://chakra-ui.com/)
+- [React Router](https://reactrouter.com/) (if used)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- Vite or Create React App (specify which one you're using)
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+npm install
+npm run dev  # or npm start
